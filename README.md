@@ -1,7 +1,6 @@
-getting_cleaning_data
-=====================
+Data
+====
 
-code book
 First of all here's the description of the raw data
 
 we have 2 dataset test and training that have the same structure: see bellow
@@ -199,8 +198,9 @@ data.frame':	10299 obs. of  81 variables:
 
 
 
-Code_book:
----------
+Code Bbook
+==========
+
 the overall idea of the code is to:
 - do the data extrection (load data from files)
 - do the data integration (column binding label and subjects with train and test data set) 
